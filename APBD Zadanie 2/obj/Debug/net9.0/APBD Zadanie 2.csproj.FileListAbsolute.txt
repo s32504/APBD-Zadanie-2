@@ -1,0 +1,14 @@
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\bin\Debug\net9.0\APBD Zadanie 2.exe
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\bin\Debug\net9.0\APBD Zadanie 2.deps.json
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\bin\Debug\net9.0\APBD Zadanie 2.runtimeconfig.json
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\bin\Debug\net9.0\APBD Zadanie 2.dll
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\bin\Debug\net9.0\APBD Zadanie 2.pdb
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.AssemblyInfoInputs.cache
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.AssemblyInfo.cs
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.dll
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\refint\APBD Zadanie 2.dll
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.pdb
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\APBD Zadanie 2.genruntimeconfig.cache
+C:\Users\s32504\RiderProjects\ConsoleApp2\APBD Zadanie 2\obj\Debug\net9.0\ref\APBD Zadanie 2.dll
