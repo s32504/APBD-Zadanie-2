@@ -15,3 +15,14 @@ abstract class Aktor
         
     }
 
+
+class Student : Aktor
+{
+    public string NumerIndeksu { get; set; }
+
+    public Student(string imie, string nazwisko, string numerIndeksu) : base(imie, nazwisko)
+    {
+        NumerIndeksu = numerIndeksu;
+    }
+}
+
