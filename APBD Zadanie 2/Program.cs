@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using APBD_Zadanie_2.Domena;
 
-Console.WriteLine("Hello, World!");
+
+var laptop = new Laptop("Dell XPS", 16, "Intel");
+
+Console.WriteLine($"Laptop: {laptop.Nazwa}, RAM: {laptop.RamGb}GB, Status: {laptop.Status} ID: {laptop.Id}");
