@@ -7,6 +7,7 @@ class Projektor : Sprzet
 
     public Projektor(string nazwa, string rozdzeiczosc, string ratio) : base(nazwa)
     {
+        Nazwa = nazwa;
         Rozdzeiczosc = rozdzeiczosc;
         Ratio = ratio;
         

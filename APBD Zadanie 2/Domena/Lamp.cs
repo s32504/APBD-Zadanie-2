@@ -7,6 +7,7 @@ class Lamp : Sprzet
     
     public Lamp(string nazwa, string typGwintu, string kolor) : base (nazwa)
     {
+        Nazwa = nazwa;
         TypGwintu = typGwintu;
         Kolor = kolor;
     }

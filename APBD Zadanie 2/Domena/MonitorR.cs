@@ -9,6 +9,6 @@ class MonitorR : Sprzet
     {
         Rozdzielczosc = rozdzielczosc;
         Ratio = ratio;
-        
+        Nazwa = nazwa;
     }
 }

@@ -33,8 +33,7 @@ class ObslugaWypozyczen
 
         return 0;
     }
-
-    public List<Wypozyczanie> AktywneWypozyczenia(Aktor aktor) =>
+    public List<Wypozyczanie> AktywneWypozyczenia(Aktor aktor) => //Aktywne tylko dla konkretnego użytkownika
         _wypozyczenia.Where(w => w.Aktor == aktor && w.DataZwrotu == null).ToList();
 
     public List<Wypozyczanie> PrzeterminowaneWypozyczenia() =>
