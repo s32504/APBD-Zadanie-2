@@ -26,3 +26,12 @@ class Student : Aktor
     }
 }
 
+class Pracownik : Aktor
+{
+    public string Stanowisko { get; set; }
+
+    public Pracownik(string imie, string nazwisko, string stanowisko) : base(imie, nazwisko)
+    {
+        Stanowisko = stanowisko;
+    }
+}
