@@ -7,7 +7,6 @@ class Laptop : Sprzet
 
     public Laptop(string nazwa, int ram, string cpu) : base (nazwa)
     {
-        Nazwa = nazwa;
         RamGb = ram;
         Cpu = cpu;
     }

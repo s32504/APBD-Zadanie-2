@@ -7,7 +7,6 @@ class MonitorR : Sprzet
 
     public MonitorR(string nazwa, string rozdzielczosc, string ratio) : base(nazwa)
     {
-        Nazwa = nazwa;
         Rozdzielczosc = rozdzielczosc;
         Ratio = ratio;
         

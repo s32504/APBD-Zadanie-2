@@ -11,7 +11,6 @@ abstract class Sprzet
     protected Sprzet(string nazwa)
     {
         Id = Guid.NewGuid();
-        Nazwa = nazwa;
         Status = Stan.Dostępny;
     }
 }
