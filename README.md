@@ -21,8 +21,9 @@ Każda klasa ma jedną wyraźną odpowiedzialność. Wypozyczanie przechowuje da
 Coupling
 Zależności są jednostronne. Domena nie zna Services. Services nie zna Program.cs. Dzięki temu zmiana UI nie wymaga modyfikacji logiki biznesowej i odwrotnie.
 Dziedziczenie wynikające z modelu domeny
-      >Student i Pracownik dziedziczą po abstrakcyjnym Aktor, różnią się limitem wypożyczeń (MaksymalnaLiczbaWypozyczen jako właściwość abstrakcyjna) oraz atrybutami (NumerIndeksu, Stanowisko). ObslugaWypozyczen nie sprawdza typu aktora — pyta aktor.MaksymalnaLiczbaWypozyczen, co jest przykładem polimorfizmu. 
-      >Laptop, Projektor, MonitorR, Lampa dziedziczą po abstrakcyjnym Sprzet — mają wspólny Status i Nazwę, ale różne atrybuty techniczne. 
+>Student i Pracownik dziedziczą po abstrakcyjnym Aktor, różnią się limitem wypożyczeń (MaksymalnaLiczbaWypozyczen jako właściwość abstrakcyjna) oraz atrybutami (NumerIndeksu, Stanowisko). ObslugaWypozyczen nie sprawdza typu aktora — pyta aktor.MaksymalnaLiczbaWypozyczen, co jest przykładem polimorfizmu. 
+>Laptop, Projektor, MonitorR, Lampa dziedziczą po abstrakcyjnym Sprzet — mają wspólny Status i Nazwę, ale różne atrybuty techniczne.
+
 Obsługa błędów
 Operacje które mogą się nie powieść (Wypozycz) rzucają wyjątki z czytelnymi komunikatami. UI łapie je lokalnie w metodach pomocniczych, nie przerywając działania całego scenariusza.
 
